@@ -1,0 +1,389 @@
+{
+  "invoices": [
+    {
+      "id": 0,
+      "code": "RT3080",
+      "date": "Due  19 Aug 2021",
+      "owner": "Jensen Huang",
+      "price": "180090",
+      "status": "paid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "19 Union Terrace",
+          "city": "London",
+          "postCode": "E13EZ",
+          "country": "United Kingdom"
+        },
+        "billTo": {
+          "clientName": "Alex Grim",
+          "clientEmail": "alexgrim@mail.com",
+          "streetAddress": "84 Church Way",
+          "city": "Bradford",
+          "postCode": "BD19PB",
+          "country": "United Kingdom",
+          "invoiceDate": "21 Aug 2021",
+          "paymentTerms": "Net 30 Days",
+          "projectDescription": "Graphic Design",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Banner Design",
+              "qty": 1,
+              "price": 156
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 1,
+      "code": "RT3080",
+      "date": "Due 19 Aug 2021",
+      "owner": "Jensen Huang",
+      "price": "180090",
+      "status": "paid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "19 Union Terrace",
+          "city": "London",
+          "postCode": "E13EZ",
+          "country": "United Kingdom"
+        },
+        "billTo": {
+          "clientName": "Alex Grim",
+          "clientEmail": "alexgrim@mail.com",
+          "streetAddress": "84 Church Way",
+          "city": "Bradford",
+          "postCode": "BD19PB",
+          "country": "United Kingdom",
+          "invoiceDate": "21 Aug 2021",
+          "paymentTerms": "Net 30 Days",
+          "projectDescription": "Graphic Design",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Banner Design",
+              "qty": 1,
+              "price": 156
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "code": "RT2098",
+      "date": "Due 28 Sep 2021",
+      "owner": "Sarah Jones",
+      "price": "220500",
+      "status": "unpaid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "45 Oak Street",
+          "city": "New York",
+          "postCode": "10001",
+          "country": "United States"
+        },
+        "billTo": {
+          "clientName": "Michael Smith",
+          "clientEmail": "michaelsmith@mail.com",
+          "streetAddress": "62 Pine Avenue",
+          "city": "Chicago",
+          "postCode": "60611",
+          "country": "United States",
+          "invoiceDate": "25 Sep 2021",
+          "paymentTerms": "Net 45 Days",
+          "projectDescription": "Mobile App Development",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "App Interface Design",
+              "qty": 1,
+              "price": 200
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "code": "RT4189",
+      "date": "Due 15 Oct 2021",
+      "owner": "Emma Thompson",
+      "price": "150099",
+      "status": "pending",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "27 Bayview Drive",
+          "city": "Sydney",
+          "postCode": "2000",
+          "country": "Australia"
+        },
+        "billTo": {
+          "clientName": "Daniel Brown",
+          "clientEmail": "danielbrown@mail.com",
+          "streetAddress": "39 Ocean Road",
+          "city": "Melbourne",
+          "postCode": "3000",
+          "country": "Australia",
+          "invoiceDate": "12 Oct 2021",
+          "paymentTerms": "Net 60 Days",
+          "projectDescription": "Copywriting Services",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Content Creation",
+              "qty": 1,
+              "price": 130
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "code": "RT5623",
+      "date": "Due 10 Nov 2021",
+      "owner": "Lucas Williams",
+      "price": "105500",
+      "status": "unpaid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "15 Maple Lane",
+          "city": "Toronto",
+          "postCode": "M5B 2H1",
+          "country": "Canada"
+        },
+        "billTo": {
+          "clientName": "Sophia Davis",
+          "clientEmail": "sophiadavis@mail.com",
+          "streetAddress": "30 Pine Street",
+          "city": "Vancouver",
+          "postCode": "V6C 3P8",
+          "country": "Canada",
+          "invoiceDate": "07 Nov 2021",
+          "paymentTerms": "Net 30 Days",
+          "projectDescription": "SEO Optimization",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Keyword Analysis",
+              "qty": 1,
+              "price": 100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "code": "RT7412",
+      "date": "Due 05 Dec 2021",
+      "owner": "Oliver Martinez",
+      "price": "78500",
+      "status": "paid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "8 Alpine Drive",
+          "city": "Paris",
+          "postCode": "75001",
+          "country": "France"
+        },
+        "billTo": {
+          "clientName": "Isabella Thompson",
+          "clientEmail": "isabellathompson@mail.com",
+          "streetAddress": "20 River Road",
+          "city": "Nice",
+          "postCode": "06000",
+          "country": "France",
+          "invoiceDate": "01 Dec 2021",
+          "paymentTerms": "Net 45 Days",
+          "projectDescription": "Photography Services",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Event Photography",
+              "qty": 1,
+              "price": 750
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "code": "RT8821",
+      "date": "Due 25 Dec 2021",
+      "owner": "Maria Rodriguez",
+      "price": "91500",
+      "status": "pending",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "55 Sunset Blvd",
+          "city": "Madrid",
+          "postCode": "28001",
+          "country": "Spain"
+        },
+        "billTo": {
+          "clientName": "Juan Diaz",
+          "clientEmail": "juandiaz@mail.com",
+          "streetAddress": "10 Palm Avenue",
+          "city": "Barcelona",
+          "postCode": "08001",
+          "country": "Spain",
+          "invoiceDate": "20 Dec 2021",
+          "paymentTerms": "Net 60 Days",
+          "projectDescription": "Event Planning",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Venue Selection",
+              "qty": 1,
+              "price": 900
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "code": "RT9376",
+      "date": "Due 15 Jan 2022",
+      "owner": "Hans Zimmer",
+      "price": "120090",
+      "status": "unpaid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "33 Harmony Street",
+          "city": "Berlin",
+          "postCode": "10115",
+          "country": "Germany"
+        },
+        "billTo": {
+          "clientName": "Lena Braun",
+          "clientEmail": "lenabraun@mail.com",
+          "streetAddress": "5 Symphony Avenue",
+          "city": "Munich",
+          "postCode": "80331",
+          "country": "Germany",
+          "invoiceDate": "12 Jan 2022",
+          "paymentTerms": "Net 45 Days",
+          "projectDescription": "Music Production",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Score Composition",
+              "qty": 1,
+              "price": 1100
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "code": "RT1102",
+      "date": "Due 20 Jan 2022",
+      "owner": "Maria Sanchez",
+      "price": "96200",
+      "status": "paid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "7 Calle Principal",
+          "city": "Mexico City",
+          "postCode": "06000",
+          "country": "Mexico"
+        },
+        "billTo": {
+          "clientName": "Carlos Morales",
+          "clientEmail": "carlosmorales@mail.com",
+          "streetAddress": "15 Avenida Central",
+          "city": "Guadalajara",
+          "postCode": "44100",
+          "country": "Mexico",
+          "invoiceDate": "17 Jan 2022",
+          "paymentTerms": "Net 30 Days",
+          "projectDescription": "Business Consulting",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Market Analysis",
+              "qty": 1,
+              "price": 950
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "code": "RT2234",
+      "date": "Due 22 Feb 2022",
+      "owner": "Mikhail Ivanov",
+      "price": "82000",
+      "status": "pending",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "12 Revolution Street",
+          "city": "Moscow",
+          "postCode": "101000",
+          "country": "Russia"
+        },
+        "billTo": {
+          "clientName": "Olga Petrova",
+          "clientEmail": "olgapetrova@mail.com",
+          "streetAddress": "25 Progress Lane",
+          "city": "St. Petersburg",
+          "postCode": "190000",
+          "country": "Russia",
+          "invoiceDate": "18 Feb 2022",
+          "paymentTerms": "Net 45 Days",
+          "projectDescription": "Software Development",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Custom Software Solution",
+              "qty": 1,
+              "price": 800
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "code": "RT3398",
+      "date": "Due 30 Mar 2022",
+      "owner": "Sophie Leclair",
+      "price": "112000",
+      "status": "unpaid",
+      "fullInfo": {
+        "billFrom": {
+          "streetAddress": "3 Rue de la Revolution",
+          "city": "Paris",
+          "postCode": "75008",
+          "country": "France"
+        },
+        "billTo": {
+          "clientName": "Jean-Baptiste Dubois",
+          "clientEmail": "jeanbaptiste@mail.com",
+          "streetAddress": "10 Boulevard Saint-Germain",
+          "city": "Marseille",
+          "postCode": "13001",
+          "country": "France",
+          "invoiceDate": "25 Mar 2022",
+          "paymentTerms": "Net 60 Days",
+          "projectDescription": "Fashion Design",
+          "itemList": [
+            {
+              "id": 1,
+              "name": "Clothing Collection",
+              "qty": 1,
+              "price": 1100
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
